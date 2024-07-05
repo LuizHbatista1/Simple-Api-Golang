@@ -6,7 +6,7 @@ This project is a basic API implemented in Golang with three primary methods: GE
 
 Go 1.16 or later
 
-API Endpoints
+## API Endpoints
 
 GET /items
 Fetch all items.
